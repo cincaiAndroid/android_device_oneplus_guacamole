@@ -5,5 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cincai_guacamole.mk
+    $(LOCAL_DIR)/cincaiAndroid_guacamole.mk
 #    $(LOCAL_DIR)/lineage_guacamole.mk
